@@ -1,0 +1,6 @@
+{
+    "hpath" : "$GOOGLE_DRIVE_DCC/Houdini",
+    "env" : [
+        {"GOOGLE_DRIVE_DCC" : "path/to/GoogleDriveDCC"}
+    ]
+}
